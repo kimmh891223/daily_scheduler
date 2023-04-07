@@ -1,7 +1,7 @@
 # Work Day Daily Scheduler
 
 ## URL
-
+https://kimmh891223.github.io/daily_scheduler/
 
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/125617951/230526403-4c4ec832-cc0b-4bb2-86af-6984714c9a86.jpg)
